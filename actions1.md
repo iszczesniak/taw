@@ -94,6 +94,6 @@ shades of meaning can be dropped.  Clarity remains the utmost virtue.
 
 * Make the main character the subject of the sentence.
 
-* Express with a verb that the character does.
+* Express with a verb what the character does.
 
 * Clarity is the goal, not subjective shades of meaning.
