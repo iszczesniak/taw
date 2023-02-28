@@ -38,8 +38,8 @@ something you make up.  I will grade:
 
 * your English (grammar, vocabulary),
 
-* whether you minded the limit and the deadline.
+* whether you mind the limit and the deadline.
+
+Please submit the best you can because I cannot accept corrections.
 
 **Deadline: the last lecture.**
-
-Please submit the best you can, because I cannot accept corrections.
