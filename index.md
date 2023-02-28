@@ -2,11 +2,10 @@
 
 These are my notes on Technical Academic Writing, a graduate course
 that I'm teaching.  The notes are based on the excellent book "Style:
-Ten Lessons in Clarity and Grace" by Joseph M. Williams.
-
-The book has many spot-on examples with elegant explanations, but I
-had to prepare short notes since the course is rather short.  I tried
-to be point-blank, yet not to trivialize.
+Ten Lessons in Clarity and Grace" by Joseph M. Williams.  The book has
+many spot-on examples with elegant explanations, but I had to prepare
+short notes since the course is rather short.  I tried to be
+point-blank, yet not to trivialize.
 
 # Content
 
