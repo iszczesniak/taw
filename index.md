@@ -25,6 +25,8 @@ to be point-blank, yet not to trivialize.
 * [Concision](concision)
 * [Shape 1](shape1)
 * [Shape 2](shape2)
-* []()
+* [Elegance 1](elegance1)
+* [Elegance 2](elegance2)
+* [Reviews](reviews)
 
 # Assignment
