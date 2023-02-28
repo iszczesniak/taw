@@ -29,3 +29,17 @@ point-blank, yet not to trivialize.
 * [Reviews](reviews)
 
 # Assignment
+
+Please write an academic abstract of a thousand characters (spaces
+included) on your work (I promise to keep it confidential) or
+something you make up.  I will grade:
+
+* how well you follow the advice given in the class,
+
+* your English (grammar, vocabulary),
+
+* whether you minded the limit and the deadline.
+
+**Deadline: the last lecture.**
+
+Please submit the best you can, because I cannot accept corrections.
