@@ -3,8 +3,7 @@ title: Characters and the passive voice
 author: Ireneusz Szcześniak
 ---
 
-Introduction
-============
+# Introduction
 
 You might have already been given advice on how to write academically:
 use the passive voice, so that your writing is impartial.  That's
@@ -25,14 +24,12 @@ sections are written in the passive.  The bottom line is to state who
 (us or cited authors) contributed what, and the active voice is better
 for that.
 
-The need for the passive voice
-==============================
+# The need for the passive voice
 
 Sometimes the passive voice is exactly what you need, as in the
 following cases.
 
-1. We report well-known information
------------------------------------
+## We report well-known information
 
 The passive is useful, when we report on something that we are not the
 authors of, when we're only summarizing the common knowledge and
@@ -50,8 +47,7 @@ bit confusing) to write on something that we didn't devise:
 > form a **slot** by concatenating contiguous *units*, so that a
 > specific ***demand*** can use the **slot**.  A ***demand*** (...)
 
-2. We need to rearrange a sentence
-----------------------------------
+## We need to rearrange a sentence
 
 The passive swaps the places of the characters.  Compare the two:
 
@@ -69,8 +65,7 @@ the new information.  The paragraph in the passive is coherent,
 because the keywords are introduced and used in order, and the
 paragraph in the active is not, because the keywords are mingled.
 
-3. Doers are unimportant or unknown
------------------------------------
+## Doers are unimportant or unknown
 
 If we don't care about characters, we can drop them with the passive
 voice.  For instance, we could write:
@@ -91,8 +86,7 @@ doers, but rather in the result:
 
 > I'm barefoot, because my shoes were stolen.
 
-4. We need to hide the doer
----------------------------
+## We need to hide the doer
 
 We may want to deliberately impersonalize the sentence, because we
 don't want to blame the doer.  Compare the two:
@@ -101,8 +95,7 @@ don't want to blame the doer.  Compare the two:
 
 > Hospital beds were in short supply.
 
-Conclusion
-==========
+# Conclusion
 
 * The passive is good for reporting information we are not the authors
   of.
