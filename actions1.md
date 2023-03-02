@@ -63,9 +63,9 @@ circuitous "is not understanding".
 > understand how a cultural background influences the way children
 > learn.
 
-We make the cultural background, and the children the characters of
-the dependent clauses, and we express their actions with verbs.  We're
-using "how" twice, which is acceptable but rather inelegant:
+We make the cultural background and the children to be the characters
+of the dependent clauses, and we express their actions with verbs.
+We're using "how" twice, which is acceptable but rather inelegant:
 
 > Our schools have failed to teach basic skills because they do not
 > understand how a cultural background influences how children learn.
