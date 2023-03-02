@@ -1,13 +1,4 @@
----
-title: Elegance - part 1
-
-author: "Ireneusz Szcześniak\\thanks{Based on the book \"Style: Toward
-        Clarity and Grace\" by Joseph M.~Williams}"
-
----
-
-Introduction
-============
+# Elegance - part 1
 
 For me, elegance is refined lucidity, not pompous bombastic
 circumlocution, obscure vocabulary galore.  Technical writing should
@@ -31,15 +22,13 @@ effort should we put, if the effort might not be much appreciated?  We
 have to balance the effort and the effect, overdoing it might be
 imprudent.  We can refine with **balance**.
 
-Balance
-=======
+# Balance
 
 Balance is about the symmetry, rhythm, and echo among the parts of a
 sentence.  Modifiers helped us before (for rhythm and echo), and now
 we use balance.
 
-Balanced coordination
----------------------
+## Balanced coordination
 
 Coordination joins (usually two) grammatical units (a word, phrase,
 clause) of the same type (verb, subject, object, adjective, main
@@ -75,8 +64,7 @@ Here's the balance of opposite adjectives:
 > network, as opposed to *static* routing, where we route **many**
 > demands in an ***unloaded*** network.
 
-Uncoordinated balance
----------------------
+## Uncoordinated balance
 
 We can balance even uncoordinated grammatical units, i.e., units of
 different types.  Here we balance the subject phrase and the object
@@ -107,8 +95,7 @@ Uncoordinated balance:
 For emphasis, I also echoed the inability to use the methods: "we
 could not have used", and "neither could we have used".
 
-Conclusion
-==========
+# Conclusion
 
 * Have something to say, and say it clearly.  Then refine to your
   taste.

@@ -1,10 +1,4 @@
----
-title: Actions and nominalization
-author: "Ireneusz Szcześniak\\thanks{Based on the book \"Style: Toward
-        Clarity and Grace\" by Joseph M.~Williams}"
----
-
-# Introduction
+# Actions and nominalization
 
 We know we should avoid nominalizations if we can better express
 actions with verbs.  Nonetheless, it is easy to abuse nominalizations

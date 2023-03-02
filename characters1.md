@@ -1,13 +1,4 @@
----
-title: Introduction to characters
-
-author: "Ireneusz Szcześniak\\thanks{Based on the book \"Style: Toward
-        Clarity and Grace\" by Joseph M.~Williams}"
-
----
-
-Introduction
-------------
+# Introduction to characters
 
 We already know the two main principles of clear writing: the subject
 should name the character, and the verb should express the character's
@@ -24,13 +15,11 @@ The second is more clear, because is has simple subjects:
 > **The CIA** feared **the president** would recommend to Congress
 > that it reduce its budget.
 
-Advice
-------
+# Advice
 
 **Make the subject *simple and specific*, not long and abstract.**
 
-Example #1
-----------
+## Example #1
 
 Revise this sentence:
 
@@ -68,8 +57,7 @@ We could argue whether the revised sentence has the same meaning as
 the original sentence, but we can't argue that the revised sentence is
 unclear, unlike the original.
 
-Example #2
-----------
+## Example #2
 
 Revise:
 
@@ -83,8 +71,7 @@ to make the sentence far more clear and to the point:
 > **Medieval theologians** often debated issues that **modern
 > philosophers** consider trivial.
 
-Exercise #1
------------
+## Exercise #1
 
 Revise:
 
@@ -96,16 +83,14 @@ Here the missing and implied character has to be reconstructed.  We
 guess it's the historians who reinterpreted the discovery, and
 reassessed the Columbus's place.
 
-Exercise #2
------------
+## Exercise #2
 
 Revise:
 
 > Tracing transitions in a well-written article provides help in
 > efforts at improving coherence in writing.
 
-Conclusion
-----------
+# Conclusion
 
 Make your character a simple subject of the sentence.  If you do this,
 you'll express the character's action with a verb.  That's clear.

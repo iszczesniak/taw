@@ -1,13 +1,4 @@
----
-title: Concision
-
-author: "Ireneusz Szcześniak\\thanks{Based on the book \"Style: Toward
-        Clarity and Grace\" by Joseph M.~Williams}"
-
----
-
-Introduction
-============
+# Concision
 
 So far we've concentrated on *clarity*.  By now we should be able to
 write clearly, but we may sound simplistic and graceless, and that
@@ -30,28 +21,24 @@ knowledge we think a reader should have, and on implied information we
 think a reader should easily figure out.  If we push the concision to
 the extreme, we may get a terse text, gristle and bone.
 
-Spare the reader
-================
+# Spare the reader
 
 Spare the reader and their mental effort, and drop what you can.
 Superfluous information only obfuscates your novel ideas.
 
-Drop the meaningless
---------------------
+## Drop the meaningless
 
 * really, actually, basically, typically
 
 * in my opinion, generally speaking, practically speaking
 
-Drop redundant words
---------------------
+## Drop redundant words
 
 * meaningless nonsense -> nonsense
 
 * painted in the red color -> painted red
 
-Replace a phrase with a right word
-----------------------------------
+## Replace a phrase with a right word
 
 * lacking grace -> graceless
 
@@ -59,13 +46,11 @@ Replace a phrase with a right word
 
 * use X instead of Y -> replace X with Y
 
-Rephrase negatives to affirmatives
-----------------------------------
+## Rephrase negatives to affirmatives
 
 * Don't write what you don't have to. -> Drop what you can.
 
-Go easy on...
-=============
+# Go easy on...
 
 **Hedging.** We should make claims that are always valid.  When we
 know (or suspect) that our claim might be false, we hedge (relax) the
@@ -85,8 +70,7 @@ For example:
 But then, we can drop "clearly" and "always".  Advice: **avoid
 intensifying**.
 
-Don't go overboard
-==================
+# Don't go overboard
 
 If you remove too much (like hedging), you may sound rude, thoughtless
 or uncompromising, and that usually rubs people the wrong way.  For
@@ -104,8 +88,7 @@ of humility and reservation goes a long way, especially when you have
 something to say, and say it well.  If you want to make extraordinary
 claims, you'd better have extraordinary proof, which is scarce.
 
-Conclusion
-==========
+# Conclusion
 
 * Write succinctly to get your novel message across.
 

@@ -1,10 +1,4 @@
----
-title: Cohesion and coherence of a paragraph
-author: Ireneusz Szcześniak
----
-
-Introduction
-============
+# Cohesion and coherence of a paragraph
 
 We already know how to write a clear sentence (or a clause): make the
 doer the subject, and express the action of the doer with a verb.
@@ -31,8 +25,7 @@ easily make new and clear connections between what we already know,
 and the new we're trying to learn and understand.  Cohesion is a
 stepping stone to coherence.
 
-Cohesion
-========
+# Cohesion
 
 We saw cohesion in action the previous lecture, where the passive
 helped us rearrange the keywords *units*, **slot**, and ***demand***
@@ -71,8 +64,7 @@ Get cohesion like this:
 
 > Fact #1 --> fact #2.  Fact #2 --> fact #3.  Fact #3 --> fact #4.
 
-Coherence
-=========
+# Coherence
 
 After reading a coherent paragraph, you know what it was about,
 without a doubt.  A coherent paragraph is:
@@ -104,8 +96,7 @@ An example of a coherent paragraph:
 >
 > We characterize a demand with (...)
 
-Conclusion
-==========
+# Conclusion
 
 If you understand something, you can write clearly about it.  A
 paragraph is clear, when the reasoning is cohesive (flows from one

@@ -1,11 +1,4 @@
----
-title: Shape of a sentence - part 2
-author: "Ireneusz Szcześniak\\thanks{Based on the book \"Style: Toward
-        Clarity and Grace\" by Joseph M.~Williams}"
----
-
-Introduction
-============
+# Shape of a sentence - part 2
 
 Some articles, even though published in peer-reviewed journals, are
 replete with ungainly sentences.  We should read our writing
@@ -26,8 +19,7 @@ clause into a **modifier**, of which there are three kinds:
 *resumptive*, *summative*, and *free*.  *A modifier is either a clause
 or a phrase*.
 
-Resumptive modifiers
---------------------
+# Resumptive modifiers
 
 A resumptive modifier starts with a noun, a verb, or an adjective
 **repeated** from the previous clause we want to stress and resume
@@ -42,8 +34,7 @@ efficient", and "which is exact"), a bit tediously:
 > We propose an algorithm, which is efficient as it can solve large
 > problems, and which is exact as its results are optimal.
 
-Summative modifiers
--------------------
+# Summative modifiers
 
 A summative modifier starts with a noun, a verb, or an adjective
 that's a gist of the previous clause, and something we want to focus
@@ -54,8 +45,6 @@ on, as in here:
 > wasted, **a technological shortcomming** addressed by the elastic
 > optical networks.
 
-\newpage
-
 We could have used a relative clause, and *vaguely* refer to what went
 before:
 
@@ -63,8 +52,7 @@ before:
 > assigned wavelength, the spectrum of the precious erbium window is
 > wasted, which is addressed by the elastic optical networks.
 
-Free modifiers
---------------
+# Free modifiers
 
 A relative clause usually refers to the *object* of the preceeding
 clause:
@@ -107,8 +95,7 @@ while the explicit subject is the equipment:
 > Planning wisely and anticipating a pandemic, personal protective
 > equipment was stockpiled.
 
-Conclusion
-==========
+# Conclusion
 
 * Break a chain of nested relative clauses with a modifier.
 

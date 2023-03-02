@@ -1,9 +1,4 @@
----
-title: Characters and the passive voice
-author: Ireneusz Szcześniak
----
-
-# Introduction
+# Characters and the passive voice
 
 You might have already been given advice on how to write academically:
 use the passive voice, so that your writing is impartial.  That's

@@ -1,13 +1,4 @@
----
-title: Shape of a sentence - part 1
-
-author: "Ireneusz Szcześniak\\thanks{Based on the book \"Style: Toward
-        Clarity and Grace\" by Joseph M.~Williams}"
-
----
-
-Introduction
-============
+# Shape of a sentence - part 1
 
 It's not that often that we have to write a *long sentence*, but when
 we have to, e.g., to explain something complex, a long sentence is
@@ -41,8 +32,7 @@ This is an example of a long, yet clear sentence:
 > spectrum and modulation constraints, because that shorter path
 > diverts the algorithms into a dead end.
 
-Shape
-=====
+# Advice
 
 Inevitably, a long sentence has a few clauses.  The *main clause*
 expresses the main idea which is supported by *subordinate (aka
@@ -59,8 +49,7 @@ characters of your story the objects.  That should be cleared up by
 now.  Now we can start **reshaping**, i.e., changing and moving around
 the clauses and phrases.
 
-Cut to the chase
-----------------
+## Cut to the chase
 
 Get to the subject of the main clause quickly, and avoid long
 introductory phrases (or clauses) as below (which I ventured
@@ -77,8 +66,7 @@ parts of it, or perhaps moving some parts of it to the end of the
 sentence.  However, I chose to put the most important information at
 the end instead.
 
-Don't interrupt
----------------
+## Don't interrupt
 
 The main clause should not be interrupted by a long relative clause
 (or a phrase), especially between **the subject and the verb**, and
@@ -109,8 +97,7 @@ Revise this sentence to make the interrupting phrase introductory:
 > We call, as a tribute to generic programming, the proposed algorithm
 > the generic Dijkstra algorithm.
 
-Conclusion
-==========
+# Conclusion
 
 * Writing a long sentence is like writing a paragraph, only more so.
 

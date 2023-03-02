@@ -1,10 +1,4 @@
----
-title: Reviews
-author: Ireneusz Szcześniak
----
-
-Introduction
-------------
+# Reviews
 
 * Reviews are a must.  It's also a privilege: you get someone to get
   to know your work, and *you can get valuable feedback*.
@@ -24,8 +18,7 @@ Introduction
   program committee members), who often are those, whom you know.  So
   it may be socially hard to decline a review.
 
-Reviews in practice
--------------------
+# Reviews in practice
 
 Good reviews take time and effort, and so good reviews are rare.
 Furthermore, a review is not a detailed account or a scrutiny, so you
@@ -66,8 +59,7 @@ Where:
 
   - read and understand, then write a review.
 
-Typical review criteria
------------------------
+# Typical review criteria
 
 * Relevance and timeliness:
 
@@ -98,8 +90,7 @@ Typical review criteria
   * have something to say, some novel idea, something that people
     need.
 
-Advice
-------
+# Advice
 
 You can help yourself by making the job of a reviewer easier, i.e.,
 write the article in such a way, that it's easy for the reviewer to
@@ -113,8 +104,7 @@ write a review:
 
   * don't botch the writing job.
 
-Conclusion
-----------
+# Conclusion
 
 * **Have something to say, and say it well.**
 

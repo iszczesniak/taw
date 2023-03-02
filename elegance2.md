@@ -1,26 +1,15 @@
----
-title: Elegance - part 2
-
-author: "Ireneusz Szcześniak\\thanks{Based on the book \"Style: Toward
-        Clarity and Grace\" by Joseph M.~Williams}"
-
----
-
-Introduction
-============
+# Elegance - part 2
 
 Warning: some what you are about to read is a bit extravagant and may
 get you in trouble with those reviewers who think that only
 impersonal, passive, flat, and bleached writing earns the title of the
 academic writing.  That's just part of the job description.
 
-Emphasis
-========
+# Emphasis
 
 We can emphasise with nominalization and chiasmus.
 
-Nominalization
---------------
+## Nominalization
 
 Really.  Sometimes nominalizations are useful.  An adjective turned
 into a noun is a nominalization too.  We could have ended the
@@ -31,8 +20,7 @@ beat.
 > It's no coincidence that we start a sentence with the old
 > information, and end with the new.
 
-Chiasmus
---------
+## Chiasmus
 
 Chiasmus ("crossing" in Greek) is a stylistic emphasis device, where
 we swap the order of information to attract attention.  Here we
@@ -43,8 +31,7 @@ chili in chocolate.
 > It's no coincidence that we *start* a sentence with **the old**
 > information, and let **the new** *end*.
 
-Metaphor
-========
+# Metaphor
 
 Metaphor is all around us.  When a girl says the guy killed the mood,
 we know that nobody was murdered.  Aristotle wrote:
@@ -71,8 +58,7 @@ In retrospect, I should have narrated nebulously using the passive
 voice with a couple of nominalizations.  Those who wanted to know
 would have gotten my point.
 
-Personification
-===============
+# Personification
 
 Personification attributes human traits to non-humans, and has been
 used long before Aesop.  We like personification since our childhoods,
@@ -89,8 +75,7 @@ revert to the standard:
 > The objective of a tentative solution is to become permanent, but
 > instead it can be discarded or never processed.
 
-Conclusion
-==========
+# Conclusion
 
 * Nominalizations are good for ending a clause or a sentence.
 
@@ -105,4 +90,3 @@ A quote from Samuel Johnson:
 
 > Read over your compositions, and wherever you meet with a passage
 > which you think is particularly fine, strike it out.
-

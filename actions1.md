@@ -1,8 +1,4 @@
----
-title: Introduction to actions
----
-
-# Introduction
+# Introduction to actions
 
 As humans we are interested in who did what and to whom.  Once we know
 the character that is prominently put as the subject, we want to know

@@ -1,10 +1,4 @@
----
-title: Emphasis
-author: Ireneusz Szcześniak
----
-
-Introduction
-============
+# Emphasis
 
 We, as humans, are most interested in how something starts and ends,
 anything in between is less important (something to ruminate over
@@ -17,8 +11,7 @@ new.  But there is more to it.
 Our writing not only should be clear, it should also be
 **convincing**, and to that end we employ **emphasis**.
 
-Emphasis
-========
+# Advice
 
 To achieve the best emphasis, the important information usually should
 be put at *the end of the sentence*, because:
@@ -45,8 +38,7 @@ We used that insight before to introduce the new information at the
 end of a sentence.  Now we know it doesn't always have to be new:
 important is good too.
 
-Example
--------
+# Example
 
 In the sentence below, we emphasize that a path should be found
 *fast*, which, hopefully, is even more emphasized by the contrast of
@@ -59,13 +51,11 @@ the lengthy and laborious sentence beginning, and the swift ending:
 > the next-generation wireless network requirements: a shortest
 > optical path should be found *fast*.
 
-Devices
-=======
+# Devices
 
 There are a number of devices that attract attention.  Here are a few.
 
-Whatever it takes
------------------
+## Whatever it takes
 
 You can be creative in stressing your point, fulfill your aesthetic
 needs, and get a thrill.  You can be a bit frivolous, and that will
@@ -82,23 +72,20 @@ so I came up with this:
 > the tweak entails we relax an edge not only for better labels, but
 > also for incomparable labels.  **A big difference.**
 
-But
----
+# But
 
 We've been told not to begin a sentence with "but".  But we can use it
 to emphasize a point.  I like this one, because it makes the reader
 grab a pencil to correct this, supposedly, blunt mistake, especially
 when they feel educated.
 
-Not only..., but also...
-------------------------
+# Not only..., but also...
 
 > However, for our label order, the tweak entails we relax an edge
 > **not only for** better labels, **but also for** incomparable
 > labels.
 
-What we need is...
-------------------
+# What we need is...
 
 We should keep our writing succinct, but sometimes we can spare a few
 extra words to stress what we need:
@@ -107,8 +94,7 @@ extra words to stress what we need:
 
 * What we need is an efficient algorithm.
 
-Conclusion
-==========
+# Conclusion
 
 * Your writing should not only be clear, but also convincing.
 

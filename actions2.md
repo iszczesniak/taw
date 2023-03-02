@@ -1,10 +1,4 @@
----
-title: Actions continued
-author: "Ireneusz Szcześniak\\thanks{Based on the book \"Style: Toward
-        Clarity and Grace\" by Joseph M.~Williams}"
----
-
-# Introduction
+# Actions continued
 
 Sentences become clear when verbs express actions, because along come
 conjunctions (e.g., because, if, when, how, but) which guide us
