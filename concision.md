@@ -97,3 +97,5 @@ claims, you'd better have extraordinary proof, which is scarce.
 * Hedge and intensify sparingly.  Don't go overboard with concision.
 
 * Concision saves space.  Fill that space with meaningful information.
+
+{% include ack %}

@@ -97,3 +97,5 @@ you'll express the character's action with a verb.  That's clear.
 
 Otherwise, your subjects will be nominalizations, and you will have to
 refer to your characters with adjectives.  That's confusing.
+
+{% include ack %}

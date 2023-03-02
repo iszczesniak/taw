@@ -90,3 +90,5 @@ A quote from Samuel Johnson:
 
 > Read over your compositions, and wherever you meet with a passage
 > which you think is particularly fine, strike it out.
+
+{% include ack %}

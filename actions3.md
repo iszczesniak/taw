@@ -97,3 +97,5 @@ Because it's easier and more elegant to use a nominalization:
 * Nominalizations can simplify a sentence.
 
 * We used "nominalization" 22 times on these two pages.  Catch 22.
+
+{% include ack %}

@@ -91,3 +91,5 @@ shades of meaning can be dropped.  Clarity remains the utmost virtue.
 * Express with a verb what the character does.
 
 * Clarity is the goal, not subjective shades of meaning.
+
+{% include ack %}

@@ -104,3 +104,5 @@ Revise this sentence to make the interrupting phrase introductory:
 * Get to the subject of the main clause quickly.
 
 * Don't interrupt the main clause with subordinate clauses.
+
+{% include ack %}

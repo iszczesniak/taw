@@ -103,3 +103,5 @@ don't want to blame the doer.  Compare the two:
   active.  If you use "we think" or "we believe", make sure you
   provide concrete, and valuable information, otherwise your writing
   can feel sloppy and baseless.
+
+{% include ack %}

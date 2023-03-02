@@ -100,3 +100,5 @@ and used conjunctions to walk readers through our reasoning.
 * If you can, avoid nominalizations and the prepositions they require.
 
 * Use verbs and conjunctions to describe your reasoning.
+
+{% include ack %}

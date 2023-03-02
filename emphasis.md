@@ -101,3 +101,5 @@ extra words to stress what we need:
 * Put the important information at the end of a sentence.
 
 * Keep the important information simple, and easy to remember.
+
+{% include ack %}

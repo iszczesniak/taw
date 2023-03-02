@@ -103,3 +103,5 @@ paragraph is clear, when the reasoning is cohesive (flows from one
 sentence to the next), and when the paragraph is coherent (has the
 structure a reader expects).  A paragraph is a building block of a
 section, and, in turn, of an article.  Keep it clear.
+
+{% include ack %}

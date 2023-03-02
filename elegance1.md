@@ -103,3 +103,5 @@ could not have used", and "neither could we have used".
 * When balancing, try to put the shorter first, then the longer.
 
 * Refine wisely.  Overdoing it might be lavish, and phony.
+
+{% include ack %}

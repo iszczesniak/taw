@@ -102,3 +102,5 @@ while the explicit subject is the equipment:
 * We got to know the resumptive, summative and free modifiers.
 
 * Watch out: don't dangle free modifiers.
+
+{% include ack %}
