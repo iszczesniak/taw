@@ -1,7 +1,5 @@
 ---
 title: Introduction to actions
-author: "Ireneusz Szcześniak\\thanks{Based on the book \"Style: Toward
-        Clarity and Grace\" by Joseph M.~Williams}"
 ---
 
 # Introduction
