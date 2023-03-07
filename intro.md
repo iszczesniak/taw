@@ -7,4 +7,7 @@ Nonetheless, good writing is a plus.  Bad writing is a common reason
 for rejection because editors and reviewers do not have to put up with
 it.
 
+Our writing should be clear, because the technicalities we write about
+are already complex.
+
 Have something to say, and say it clearly.
