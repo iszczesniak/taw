@@ -28,7 +28,8 @@ such sentences.
 
 ## Example #1
 
-This sentence is unclear because its story and grammar do not match:
+This grotesque sentence is unclear because its story and grammar do
+not match:
 
 > Once upon a time, as a walk through the woods was taking place on
 > the part of Little Red Riding Hood, the Wolf's jump out from behind
@@ -93,7 +94,7 @@ clear and direct:
 In the original example, the actions were expressed by
 nominalizations: destabilization, and tendency.  In the revised
 example, we expressed the actions by verbs (destabilize, and tend),
-and used conjunctions to walk readers through our reasoning.
+and used conjunctions to walk the readers through our reasoning.
 
 # Conclusion
 

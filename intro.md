@@ -10,4 +10,8 @@ it.
 Our writing should be clear, because the technicalities we write about
 are already complex.
 
+In the research community, the burden of communication is put on the
+writer, i.e., the readers expect from a writer a text that is easy to
+follow.
+
 Have something to say, and say it clearly.

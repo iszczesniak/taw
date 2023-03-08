@@ -46,4 +46,6 @@ something you make up.  I will grade:
 
 Please submit the best you can because I cannot accept corrections.
 
+Please send the abstract from your pcz.pl account.
+
 **Deadline: the last lecture.**
