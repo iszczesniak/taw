@@ -46,6 +46,8 @@ Superfluous information only obfuscates your novel ideas.
 
 * use X instead of Y -> replace X with Y
 
+* to come to a conclusion -> to conclude
+
 ## Rephrase negatives to affirmatives
 
 * Don't write what you don't have to. -> Drop what you can.
