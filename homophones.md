@@ -6,6 +6,11 @@ By and buy
 
 /baɪ/
 
+Let's go on vacation,
+By bus, by boat, by plain.
+
+My son asked: why do they want to buy a bus, a boat and a plane?
+
 Current and currant
 -------------------
 UK /ˈkʌr.ənt/
@@ -28,6 +33,12 @@ Aunt and ant
 
 Aunt - UK /ɑːnt/, US /ænt/
 Ant - UK /ænt/ US
+
+Break and brake
+---------------
+
+UK /breɪk/
+US /breɪk/
 
 Complementary and complimentary
 -------------------------------
