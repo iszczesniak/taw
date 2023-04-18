@@ -35,7 +35,6 @@ translation by Geoffrey Brock):
 * [Shape 2](shape2)
 * [Elegance 1](elegance1)
 * [Elegance 2](elegance2)
-* [Reviews](reviews)
 
 ## Extra
 
