@@ -1,6 +1,6 @@
 # Elegance - part 1
 
-For me, elegance is refined lucidity, not pompous bombastic
+For me, elegance is refined clarity, not pompous bombastic
 circumlocution, obscure vocabulary galore.  Technical writing should
 be engaging, and clever.  If you think writing is mundane, so will
 your writing be: mundane, flat, and boring.  Even though technical
