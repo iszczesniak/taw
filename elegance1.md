@@ -55,7 +55,7 @@ other:
 
 > Network operations, management, and control require **efficient and
 > exact** algorithms, especially now, when networks get more
-> **performant, and reliable.**
+> **performant and reliable.**
 
 Here's the balance of opposite adjectives:
 
