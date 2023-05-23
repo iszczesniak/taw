@@ -31,10 +31,9 @@ we use balance.
 ## Balanced coordination
 
 Coordination joins (usually two) grammatical units (a word, phrase,
-clause) of the same type (verb, subject, object, adjective, main
-clause, relative clause) with a conjunction.  Coordination can be as
-simple as "black and white", or more elaborate, as in here, of two
-relative clauses:
+clause) of the same type (verb, subject, object, adjective, clause)
+with a conjunction.  Coordination can be as simple as "black and
+white", or more elaborate, as in here, of two clauses:
 
 > It's no coincidence that we **start** a sentence with ***the old and
 > known information***, and **end** with ***the new and unfamiliar***.
