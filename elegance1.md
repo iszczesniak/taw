@@ -48,7 +48,7 @@ In the above coordination I balanced:
 
 I also put the important information at the end of each subordinate
 clause (that rule applies not only to a sentence, but to a clause
-too), and **gapped** the subject in the second coordinated relative
+too), and dropped the subject in the second coordinated relative
 clause, i.e., removed "a sentence", because it's redundant.
 
 Here's the balance of complementary adjectives, where they echo each
