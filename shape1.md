@@ -1,11 +1,13 @@
 # Shape of a sentence - part 1
 
-It's not that often that we have to write a *long sentence*, but when
-we have to, e.g., to explain something complex, a long sentence is
-just right.  We can do without it, and chop the complex into several
-sentences, but... we loose the glamour.  It's a matter of style and
-skill: can we write a long sentence that is clear and graceful?  A
-long sentence should read easily, and it will if we give it the right
+It's not that often that we write a *long sentence*, but when we have
+to, e.g., to explain something complex, a long sentence is just right.
+We can do without it, and chop the complex into several sentences,
+but... we loose the glamour.  It's a matter of style and skill: can we
+write a long sentence that is clear and graceful?  It's like in
+movies: directors take pride in one-shot scenes (something we don't
+see in sitcoms) though most viewers don't take notice.  A long
+sentence should read easily, and it will if we give it the right
 **shape**.
 
 A long sentence is clear, when the ideas are presented with clauses in
