@@ -15,3 +15,10 @@ writer, i.e., the readers expect from a writer a text that is easy to
 follow.
 
 Have something to say, and say it clearly.
+
+Dijkstra:
+
+* Complexity sells better than simplicity.
+
+* Simplicity is a great girtua but requires hard work to achieve and
+  appreciate.
