@@ -54,8 +54,8 @@ the clauses and phrases.
 ## Cut to the chase
 
 Get to the subject of the main clause quickly, and avoid long
-introductory phrases (or clauses) as below (which I ventured
-nonetheless to stress my point):
+introductory phrases (or clauses).  This is a counterexample (which I
+ventured nonetheless to stress my point):
 
 > Given the increasing deployment of optical networks, softwarization
 > of the network control, the ever-increasing need for bandwidth and
