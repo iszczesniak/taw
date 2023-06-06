@@ -25,8 +25,7 @@ beat.
 Chiasmus ("crossing" in Greek) is a stylistic emphasis device, where
 we swap the order of information to attract attention.  Here we
 swapped "end" with "the new".  It attracts attention, because it is
-playful, sounds different, and attracts attention.  It's like a bit of
-chili in chocolate.
+playful, it sounds different.  It's like a bit of chili in chocolate.
 
 > It's no coincidence that we *start* a sentence with **the old**
 > information, and let **the new** *end*.
