@@ -64,4 +64,4 @@ Please submit the best you can because I cannot accept corrections.
 
 Please send the abstract from your pcz.pl account.
 
-**Deadline: the last lecture.**
+**Deadline: the previous to the last lecture.**
