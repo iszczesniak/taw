@@ -52,8 +52,16 @@ something you make up.  I will grade:
 
 * whether you mind the limit and the deadline.
 
+Minimal grade requirements:
+
+* **satisfactory**: the text is meaningful and without errors,
+
+* **good**: the text is clear,
+
+* **very good**: the text is elegant.
+
 Please submit the best you can because I cannot accept corrections.
 
 Please send the abstract from your pcz.pl account.
 
-**Deadline: the last lecture.**
+**Deadline: the previous to the last lecture.**
