@@ -53,10 +53,10 @@ and that they do not understand.  We're talking about how children
 learn, and how their learning is influenced by cultural background.
 
 The main character seems to be the schools, so we make them the
-subject of the main clause.  Now it's natural to express their failure
-with a verb: "have failed", and "to teach" to say what specifically
-they did wrong.  We dodged the nominalization "failure at teaching"
-with two verbs.  Good.
+subject of the independent clause (aka the main clause).  Now it's
+natural to express their failure with a verb: "have failed", and "to
+teach" to say what specifically they did wrong.  We dodged the
+nominalization "failure at teaching" with two verbs.  Good.
 
 Again the schools are the character ("they") of the dependent clause,
 and we can directly state: "they do not understand", without
