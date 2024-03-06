@@ -36,14 +36,21 @@ understanding**; from that verb we learn little concrete, and it
 forces use to negate our logic.  Finally, the object is also long and
 complicated: *the influence of a cultural background on learning*.
 
-The sentence has one verb only.  The characters and the subject are
-mismatched, so are the verb and the actions.  Actions are hidden in
-noun phrases with: failure, teaching, influence, and learning.
+Grammatically, it is a simple sentence because it is a single
+independent clause (has one verb only), yet it is hard to understand
+because:
 
-We notice that the characters are: the schools, cultural background,
-and children.  We know that the schools failed, and that they do not
-understand.  We're talking about how children learn, and how their
-learning is influenced by cultural background.
+* the characters and the subject are mismatched,
+
+* so are the verbs and the actions,
+
+* actions are hidden in noun phrases (with failure, teaching,
+  influence, and learning). 
+
+We notice that the characters are: the schools, cultural background
+(the people we meet), and children.  We know that the schools failed,
+and that they do not understand.  We're talking about how children
+learn, and how their learning is influenced by cultural background.
 
 The main character seems to be the schools, so we make them the
 subject of the main clause.  Now it's natural to express their failure
@@ -53,7 +60,8 @@ with two verbs.  Good.
 
 Again the schools are the character ("they") of the dependent clause,
 and we can directly state: "they do not understand", without
-circuitous "is not understanding".
+circuitous "is not understanding".  Futhermore, with the conjunction
+"because" we argue what the cause was, thus we cut "the cause of".
 
 > Our schools have failed to teach basic skills because they do not
 > understand how a cultural background influences the way children
@@ -76,6 +84,9 @@ And yet another variation:
 > Our schools have failed to teach basic skills because they do not
 > understand how children learn depending on their cultural
 > background.
+
+Grammatically, the revised sentences are complex (have a single
+independent clause and dependent clauses) but are easy to understand.
 
 We could argue that rewriting changes the meaning of sentences.
 Perhaps the author of the original sentence wanted to emphasize the
