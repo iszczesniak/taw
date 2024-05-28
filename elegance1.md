@@ -12,7 +12,7 @@ We write, read, rewrite, and reread many times to refine.  George
 Gamow, so I heard, would write his articles out from memory, writing
 the same article as many times as needed, so that he finally felt the
 article was right.  This is extreme, especially today when researchers
-are supposed to publish ever more, but we get the idea: refinement.
+are pressed to publish ever more, but we get the idea: refinement.
 
 Refinement comes with effort, but is noticed only by careful readers,
 and goes mostly unnoticed, let alone appreciated, by most readers,
