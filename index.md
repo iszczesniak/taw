@@ -42,9 +42,16 @@ translation by Geoffrey Brock):
 
 # Assignment
 
-Please write an academic abstract of a thousand characters (spaces
-included) on your work (I promise to keep it confidential) or
-something you make up.  I will grade:
+Please write:
+
+* an academic abstract of about a thousand (hard limit: 900 - 1100)
+  characters (spaces included) on your work or something you make up
+  (I promise to keep it confidential),
+
+* an explanation why you think your text is clear and elegant, within
+  the same limit as the abstract.
+
+I will grade:
 
 * how well you follow the advice given in the class,
 
@@ -58,7 +65,7 @@ Minimal grade requirements:
 
 * **good**: the text is clear,
 
-* **very good**: the text is elegant.
+* **very good**: the text is graceful.
 
 Please submit the best you can because I cannot accept corrections.
 
