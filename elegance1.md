@@ -78,8 +78,8 @@ Here's an example of uncoordinated balance, done twice:
 
 > For that large problem sizes we *could not have used* the existing
 > **optimal methods** (e.g., the brute-force algorithm, the integer
-> linear programming) since ***they are inefficient***, and *neither
-> could we have used* the existing ***efficient methods*** (e.g., the
+> linear programming) since ***they are inefficient***, *nor could we
+> have used* the existing ***efficient methods*** (e.g., the
 > edge-exclusion algorithm, the tabu search), since **they are
 > suboptimal**.
 
