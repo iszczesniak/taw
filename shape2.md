@@ -66,18 +66,20 @@ clause:
 > Governments stockpiled the personal protective masks, which [the
 > masks or maybe the governments?] were much appreciated later.
 
-A free modifier attaches to a clause, letting us talk about the
-*explicit subject* of that clause.  The *implied subject* of the free
-modifier should be the same as the *explicit subject* of the clause
-the free modifier attaches to.  Let's give it away:
-
-> Governments stockpiled the personal protective masks, planning
-> [i.e. governments planned] wisely and anticipating a pandemic.
-
-Instead we could have written:
+If we want to praise the governments, we could write:
 
 > Governments stockpiled the personal protective equipment, which was
 > planned wisely in anticipation of a pandemic.
+
+A free modifier can help us be more elegant and subtle.  A free
+modifier attaches to a clause, letting us talk about the *explicit
+subject* of that clause.  The *implied subject* of the free modifier
+should be the same as the *explicit subject* of the clause the free
+modifier attaches to.  Here the explicit and the implicit subjects are
+the governments:
+
+> Governments stockpiled the personal protective masks, planning
+> wisely and anticipating a pandemic.
 
 A free modifier can both begin and end a sentence, and hence its name:
 free (as in freedom, unfettered, not as in free beer).  In the example
